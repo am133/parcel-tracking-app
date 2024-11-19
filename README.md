@@ -39,11 +39,11 @@ A **React Native** application for tracking parcels, built with the **17Track AP
       <img src="https://i.imgur.com/VOtTnbA.png" alt="Landing Page" width="250" />
     </td>
     <td align="center">
-      <h3>Tracked Deliveries Page</h3>
+      <h3>Monitored Deliveries</h3>
       <img src="https://i.imgur.com/s7gTugI.png" alt="Tracked Deliveries Page" width="250" />
     </td>
     <td align="center">
-      <h3>Detailed Tracking View</h3>
+      <h3>Detailed Tracking</h3>
       <img src="https://i.imgur.com/LY4TOx0.png" alt="Detailed Tracking View" width="250" />
     </td>
     <td align="center">
