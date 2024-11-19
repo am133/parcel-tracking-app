@@ -15,7 +15,7 @@ const API_KEY = process.env.EXPO_PUBLIC_TRACKING_API_KEY;
 const BASE_URL = process.env.EXPO_PUBLIC_BASE_URL; // Use the base URL from .env
 const SERVER_URL = `${BASE_URL}/register_token`; // Endpoint for registering token
 const SERVER_TRACKING_URL = `${BASE_URL}/register_tracking`; // Endpoint for registering tracking
-const PROJECT_ID = 'b1cb0aa8-530a-4e25-9112-d3b4d784b8bc';
+const PROJECT_ID = process.env.EXPO_PUBLIC_PROJECT_ID;
 
 
 interface TrackingPayload {
